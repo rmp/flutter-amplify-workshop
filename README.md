@@ -1,6 +1,6 @@
 # memory_match_game
 
-A new Flutter project.
+A workshop Flutter project.
 
 ## Getting Started
 
